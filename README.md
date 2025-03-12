@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jared, an IT Professional
+<h1>Hi, I'm Jared, an IT Specialist
 
 <h2>🕶️ Information Technology Projects:</h2>
 
